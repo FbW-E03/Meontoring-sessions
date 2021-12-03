@@ -14,6 +14,12 @@ Link to the drive with recordings: https://drive.google.com/drive/folders/1bAVla
 - Context (10.12.2021)
 - Example of small/big app (17.12.2021)
 
+#### 03.12.2021:
+React recap: React Router: [Here](https://github.com/SebastianSalasDCI/Recap_React_Router_V5)
+
+#### 26.11.2021:
+React recap: API Request: [Here](https://github.com/SebastianSalasDCI/Recap_API_Requests)
+
 #### 19.11.2021:
 React recap: Form handling: [Here](https://github.com/SebastianSalasDCI/Recap_Form_Handling/tree/main)
 
